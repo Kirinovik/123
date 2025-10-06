@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//valid
 namespace ConsoleApp3
 {
     public abstract class Item
