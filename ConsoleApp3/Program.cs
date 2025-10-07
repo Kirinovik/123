@@ -254,4 +254,8 @@ namespace ConsoleApp3
 }
 // коментарий
 //абвглд
-// CHANGE FROM branch-B: CONFLICT-B
+
+//валид инвалид
+
+// ===== CHANGE FROM branch-B: CONFLICT-B =====
+// ===== CHANGE FROM branch-A: CONFLICT-A =====
