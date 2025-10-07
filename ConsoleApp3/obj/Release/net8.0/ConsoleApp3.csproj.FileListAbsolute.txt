@@ -1,0 +1,15 @@
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.exe
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.deps.json
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.runtimeconfig.json
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.dll
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.pdb
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.sourcelink.json
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.dll
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\refint\ConsoleApp3.dll
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.pdb
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\Download\DnD-Game-main\DnD-Game-main1\DnD-Game-main\ConsoleApp3\obj\Release\net8.0\ref\ConsoleApp3.dll
