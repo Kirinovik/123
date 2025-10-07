@@ -254,3 +254,4 @@ namespace ConsoleApp3
 }
 // коментарий
 //абвглд
+// CHANGE FROM branch-B: CONFLICT-B
