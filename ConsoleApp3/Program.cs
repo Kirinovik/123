@@ -255,3 +255,4 @@ namespace ConsoleApp3
 // коментарий
 //абвглд
 //валид инвалид
+// CHANGE FROM branch-A: CONFLICT-A
